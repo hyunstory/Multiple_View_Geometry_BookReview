@@ -5,8 +5,37 @@
 
 ---
 
-책에서 중요하다고 생각하는 부분만 따로 정리(본인 기록용)
+책에서 중요하다고 생각하는 부분만 따로 정리(기록용)
+<br>
 책의 요약본은 아닌점 참고해주세요 
+
+---
+## 👋 팀원 소개
+
+<table>
+  <tr height="160px">
+    <th align="center" width="150px">
+      <a href="https://github.com/hyunstory"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/24473822?v=4"/>
+    </th>
+    <th align="center" width="150px">
+      <a href="https://github.com/twoo0220"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/47514338?v=4"/></a>
+    </th>
+    <th align="center" width="150px">
+      <a href="https://github.com/twoo0220"><img height="120px" width="120px" src="https://avatars.githubusercontent.com/u/119822557?v=4"/></a>
+    </th>
+  </tr>
+  <tr>
+    <td align="center" width="150px">
+      <a href="https://github.com/hyunstory"><strong>hyunstory</strong></a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/twoo0220"><strong>크썸</strong></a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/twoo0220"><strong>OO</strong></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
